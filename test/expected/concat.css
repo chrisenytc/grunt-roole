@@ -1,0 +1,12 @@
+body {
+	width: 960px;
+}
+#header .logo {
+	float: left;
+}
+ul {
+	overflow: hidden;
+}
+	ul > li {
+		float: left;
+	}
