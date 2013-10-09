@@ -1,56 +1,62 @@
 {
-  "name": "grunt-roole",
-  "description": "Compile Roole files to CSS",
-  "version": "0.1.0",
-  "homepage": "https://github.com/chrisenytc/grunt-roole",
-  "author": {
-    "name": "Christopher EnyTC",
-    "email": "chrisenytc@gmail.com",
-    "url": "http://chris.enytc.com"
-  },
-  "contributors": [ 
-    {
-      "name": "Christopher EnyTC",
-      "email": "chrisenytc@gmail.com"
+    "name": "grunt-roole",
+    "description": "Compile Roole files to CSS",
+    "version": "0.1.1",
+    "homepage": "https://github.com/chrisenytc/grunt-roole",
+    "author": "Christopher EnyTC <chrisenytc@gmail.com>",
+    "maintainers": [
+        {
+            "name": "Christopher EnyTC",
+            "email": "chrisenytc@gmail.com"
+        },
+        {
+            "name": "Lázaro Alvarenga",
+            "email": "lazaroalvarenga@email.com"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Christopher EnyTC",
+            "email": "chrisenytc@gmail.com"
+        },
+        {
+            "name": "Lázaro Alvarenga",
+            "email": "lazaroalvarenga@email.com"
+        }
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/chrisenytc/grunt-roole.git"
     },
-    {
-      "name": "Lázaro Alvarenga",
-      "email": "lazaroalvarenga@email.com"
-    }
-  ],
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/chrisenytc/grunt-roole.git"
-  },
-  "bugs": {
-    "url": "https://github.com/chrisenytc/grunt-roole/issues"
-  },
-  "licenses": [
-    {
-      "type": "MIT",
-      "url": "https://github.com/chrisenytc/grunt-roole/blob/master/LICENSE-MIT"
-    }
-  ],
-  "main": "Gruntfile.js",
-  "engines": {
-    "node": ">= 0.8.0"
-  },
-  "scripts": {
-    "test": "grunt test"
-  },
-  "dependencies": {
-    "roole": "~0.6.2"
-  },
-  "devDependencies": {
-    "grunt-contrib-jshint": "~0.6.0",
-    "grunt-contrib-clean": "~0.4.0",
-    "grunt-contrib-nodeunit": "~0.2.0",
-    "grunt": "~0.4.1"
-  },
-  "peerDependencies": {
-    "grunt": "~0.4.1"
-  },
-  "keywords": [
-    "gruntplugin"
-  ],
+    "bugs": {
+        "url": "https://github.com/chrisenytc/grunt-roole/issues"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/chrisenytc/grunt-roole/blob/master/LICENSE-MIT"
+        }
+    ],
+    "main": "Gruntfile.js",
+    "engines": {
+        "node": ">= 0.8.0"
+    },
+    "scripts": {
+        "test": "grunt test"
+    },
+    "dependencies": {
+        "roole": "~0.6.2"
+    },
+    "devDependencies": {
+        "grunt-contrib-jshint": "~0.6.0",
+        "grunt-contrib-clean": "~0.4.0",
+        "grunt-contrib-nodeunit": "~0.2.0",
+        "grunt": "~0.4.1"
+    },
+    "peerDependencies": {
+        "grunt": "~0.4.1"
+    },
+    "keywords": [
+        "gruntplugin"
+    ]
 }
