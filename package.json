@@ -1,29 +1,14 @@
+
 {
     "name": "grunt-roole",
     "description": "Compile Roole files to CSS",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "homepage": "https://github.com/chrisenytc/grunt-roole",
-    "author": "Christopher EnyTC <chrisenytc@gmail.com>",
-    "maintainers": [
-        {
-            "name": "Christopher EnyTC",
-            "email": "chrisenytc@gmail.com"
-        },
-        {
-            "name": "Lázaro Alvarenga",
-            "email": "lazaroalvarenga@email.com"
-        }
-    ],
-    "contributors": [
-        {
-            "name": "Christopher EnyTC",
-            "email": "chrisenytc@gmail.com"
-        },
-        {
-            "name": "Lázaro Alvarenga",
-            "email": "lazaroalvarenga@email.com"
-        }
-    ],
+    "author": {
+        "name": "Christopher EnyTC",
+        "email": "chrisenytc@gmail.com",
+        "url": "http://chris.enytc.com"
+    },
     "repository": {
         "type": "git",
         "url": "git://github.com/chrisenytc/grunt-roole.git"
