@@ -1,5 +1,4 @@
-# Grunt Roole [![Build Status](https://travis-ci.org/chrisenytc/grunt-roole.png?branch=master)](https://travis-ci.org/chrisenytc/grunt-roole)
-
+# Grunt Roole [![Build Status](https://travis-ci.org/chrisenytc/grunt-roole.png?branch=master)](https://travis-ci.org/chrisenytc/grunt-roole) [![Dependency Status](https://gemnasium.com/chrisenytc/grunt-roole.png)](https://gemnasium.com/chrisenytc/grunt-roole) [![NPM version](https://badge.fury.io/js/grunt-roole.png)](http://badge.fury.io/js/grunt-roole)
 > Compile Roole files to CSS
 
 ## Getting Started
