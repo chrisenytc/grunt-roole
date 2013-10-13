@@ -1,6 +1,17 @@
 body {
 	width: 960px;
 }
+
+.livia-button {
+	display: inline-block;
+}
+
+.livia-tabs .livia-tab {
+	float: left;
+}
+	.livia-tabs .livia-tab.livia-active {
+		border-bottom: none;
+	}
 #header .logo {
 	float: left;
 }

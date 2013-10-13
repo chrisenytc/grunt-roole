@@ -43,6 +43,11 @@ module.exports = function(grunt) {
         var compiled;
         
         roole.compile(grunt.file.read(filepath), options, function(error, css){
+          if(error)
+          {
+            grunt.log.warn(error.message+' on line '+error.line);
+            grunt.fail.warn(error);
+          }
           compiled = css;
         });
         

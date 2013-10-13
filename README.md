@@ -1,5 +1,4 @@
-# Grunt Roole [![Build Status](https://travis-ci.org/chrisenytc/grunt-roole.png?branch=master)](https://travis-ci.org/chrisenytc/grunt-roole)
-
+# Grunt Roole [![Build Status](https://travis-ci.org/chrisenytc/grunt-roole.png?branch=master)](https://travis-ci.org/chrisenytc/grunt-roole) [![Dependency Status](https://gemnasium.com/chrisenytc/grunt-roole.png)](https://gemnasium.com/chrisenytc/grunt-roole) [![NPM version](https://badge.fury.io/js/grunt-roole.png)](http://badge.fury.io/js/grunt-roole)
 > Compile Roole files to CSS
 
 ## Getting Started
@@ -88,8 +87,9 @@ In lieu of a formal styleguide, take care to maintain the existing coding style.
 
 ## Release History
 
- * 2013-10-8   v0.1.2   Fixed package.json and AUTHORS.
- * 2013-10-8   v0.1.1   Update maintainers.
- * 2013-10-8   v0.1.0   Initial release.
+ * 2013-10-13    v0.1.3   Fixed error on creating blank files when the compiler throw an error.
+ * 2013-10-8    v0.1.2   Fixed package.json and AUTHORS.
+ * 2013-10-8    v0.1.1   Update maintainers.
+ * 2013-10-8    v0.1.0   Initial release.
 
 ---

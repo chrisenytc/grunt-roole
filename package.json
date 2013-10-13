@@ -2,7 +2,7 @@
 {
     "name": "grunt-roole",
     "description": "Compile Roole files to CSS",
-    "version": "0.1.2",
+    "version": "0.1.3",
     "homepage": "https://github.com/chrisenytc/grunt-roole",
     "author": {
         "name": "Christopher EnyTC",

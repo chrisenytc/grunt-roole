@@ -2,3 +2,19 @@ body {
   $width = 960px;
   width: $width;
 }
+
+@module .livia {
+  .button {
+    display: inline-block;
+  }
+
+  .tabs {
+    .tab {
+      float: left;
+
+      &.active {
+        border-bottom: none;
+      }
+    }
+  }
+}
