@@ -85,6 +85,9 @@ grunt.initConfig({
 ## Contributing
 In lieu of a formal styleguide, take care to maintain the existing coding style. Add unit tests for any new or changed functionality. Lint and test your code using [Grunt](http://gruntjs.com/).
 
+## Support
+If you have any problem or suggestion please open an issue [here](https://github.com/chrisenytc/grunt-roole/issues).
+
 ## Release History
 
  * 2013-10-13    v0.1.3   Fixed error on creating blank files when the compiler throw an error.
