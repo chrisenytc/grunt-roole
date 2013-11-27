@@ -1,4 +1,4 @@
-# Grunt Roole [![Build Status](https://travis-ci.org/chrisenytc/grunt-roole.png?branch=master)](https://travis-ci.org/chrisenytc/grunt-roole) [![Dependency Status](https://gemnasium.com/chrisenytc/grunt-roole.png)](https://gemnasium.com/chrisenytc/grunt-roole) [![NPM version](https://badge.fury.io/js/grunt-roole.png)](http://badge.fury.io/js/grunt-roole) [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/chrisenytc/grunt-roole/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+# Grunt Roole [![Build Status](https://travis-ci.org/chrisenytc/grunt-roole.png?branch=master)](https://travis-ci.org/chrisenytc/grunt-roole) [![Dependency Status](https://gemnasium.com/chrisenytc/grunt-roole.png)](https://gemnasium.com/chrisenytc/grunt-roole) [![NPM version](https://badge-me.herokuapp.com/api/npm/grunt-roole.png)](http://badges.enytc.com/for/npm/grunt-roole) [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/chrisenytc/grunt-roole/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 > Compile Roole files to CSS
 
 ## Getting Started
